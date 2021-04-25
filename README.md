@@ -19,12 +19,12 @@ Frog Jumping Problem is a python program that prints complete state space grap o
  If you want to change the number of frogs to 2 or 4, make the following changes to driver code:
  
  * When number of frogs = 2 (of each kind)
-        - ```starting_position = '11022'```
-        - ```move_sequence = '1 2 2 1 1  2 2 1'```
+   - ```starting_position = '11022'```
+   - ```move_sequence = '1 2 2 1 1  2 2 1'```
  
  * When number of frogs = 4 (of each kind)
-        - ```starting_position = '1110222'```
-        - ```move_sequence = '1 2 2 1 1 1 2 2 2 1 1 1 2 2 1'```
+   - ```starting_position = '1110222'```
+   - ```move_sequence = '1 2 2 1 1 1 2 2 2 1 1 1 2 2 1'```
 
  
  
