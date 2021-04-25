@@ -10,4 +10,4 @@ Each state of the game will be represented in the form of a 7-char string, say 1
  
  The output looks like this:
  
- ![Output]("https://github.com/Agha-Muqarib/The-Frog-Jumping-Problem/blob/main/Images/Output.png")
+ [Output]("https://github.com/Agha-Muqarib/The-Frog-Jumping-Problem/blob/main/Images/Output.png")
