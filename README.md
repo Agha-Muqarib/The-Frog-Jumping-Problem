@@ -28,7 +28,7 @@ The Frog Jumping Problem is a python program that prints complete state space gr
 
 ## References:
 
-* Reference to Study:
+* Reference to Case Study:
         [http://tantalus.questu.ca/~rhoshino/files/frogjumping.pdf](http://tantalus.questu.ca/~rhoshino/files/frogjumping.pdf) 
   
 * Reference to Notebook/Code: 
