@@ -26,7 +26,7 @@ The Frog Jumping Problem is a python program that prints complete state space gr
    - ```starting_position = '1110222'```
    - ```move_sequence = '1 2 2 1 1 1 2 2 2 1 1 1 2 2 1'```
 
-## References:
+## Relevant References:
 
 * Reference to Case Study:
         [http://tantalus.questu.ca/~rhoshino/files/frogjumping.pdf](http://tantalus.questu.ca/~rhoshino/files/frogjumping.pdf) 
