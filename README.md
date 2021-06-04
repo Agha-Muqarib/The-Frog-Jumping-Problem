@@ -1,4 +1,4 @@
-# The-Frog-Jumping-Problem
+# The-Frog-Jumping-Problem:
 
 The Frog Jumping Problem is a python program that prints complete state space graph of the 'Frog Problem'. Also, it counts the number of states while generating them.
 
@@ -21,10 +21,21 @@ The Frog Jumping Problem is a python program that prints complete state space gr
  * When number of frogs = 2 (of each kind)
    - ```starting_position = '11022'```
    - ```move_sequence = '1 2 2 1 1  2 2 1'```
+   
+   {is equal to the code 12-2-21}
+   
+ * When number of frogs = 3 (of each kind)
+   - ```starting_position = '1110222'```
+   - ```move_sequence = '1 2 2 1 1 1 2 2 2 1 1 1 2 2'```
+   
+   {is equal to the code 123-3-321}
+   
  
  * When number of frogs = 4 (of each kind)
    - ```starting_position = '1110222'```
-   - ```move_sequence = '1 2 2 1 1 1 2 2 2 1 1 1 2 2 1'```
+   - ```move_sequence = '1 2 2 1 1 1 2 2 2 2 1 1 1 1 2 2 2 2 1 1 1 2 2 1'```
+
+  {is equal to the code 1234-4-4321}
 
 ## Relevant References:
 
